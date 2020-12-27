@@ -1,0 +1,28 @@
+table.tabla1_2 {
+    border: rgb(109, 32, 32) 1px solid;
+}
+
+td.azul {
+    border: blue 3px solid;
+}
+
+table.tabla_3 {
+    border:#6e9a71 1px solid;
+}
+
+.verde {
+    border: #6e9a71 1px solid;
+    text-align: center;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.verde2 {
+    border: #6e9a71 1px solid;
+    text-align: center;
+    padding-left: 130px;
+    padding-right: 130px; 
+}
+
+
+
